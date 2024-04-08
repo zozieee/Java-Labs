@@ -1,0 +1,1 @@
+Given two numbers N1 and N2, divide the former by the latter and store the result in R.

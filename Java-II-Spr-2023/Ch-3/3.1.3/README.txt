@@ -1,0 +1,1 @@
+given two integers N1 and N2 as input, perform their division and store them in a double variable.
